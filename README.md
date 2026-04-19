@@ -1,7 +1,7 @@
 # 💫 About Me:
 <br>
 Hey! 👋 I'm Hafidz Rahmatullah
-<br>🎓 Informatics Engineering Student | 💻 Web & Mobile Developer | 🔐 Cybersecurity Learner<br><br>⚡ Turning ideas into scalable applications — from structured Laravel systems to Flutter apps powered by Flask APIs.<br>🧠 Exploring AI, Big Data, and secure web architectures while continuously leveling up.<br>🚀 Building. Securing. Optimizing.
+<br>🎓 Informatics Engineering Student | 💻 Web & Mobile Developer | 🔐 Cybersecurity Learner<br><br>⚡ Turning ideas into scalable applications from structured Laravel systems to Flutter apps powered by Flask APIs.<br>🧠 Exploring AI, Big Data, and secure web architectures while continuously leveling up.<br>🚀 Building. Securing. Optimizing.
 
 
 ## 🌐 Socials:
